@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achyutde
 - 👀 I’m interested in Data Mining and Visualization
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me achyut.de@gmail.com
 
 <!---
